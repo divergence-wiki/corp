@@ -9,8 +9,8 @@ You will need to:
 Instructions
 ------------
 
-These instructions will get you started with downloading and installing the applications required to access the lab content.  
-Additional instructions will be provided by your instructor.  
+These instructions will get you started with downloading and installing the applications required to access the corp environment.  
+Additional instructions will be provided by Divergence IT staff.  
 
 Getting Started
 ---------------
